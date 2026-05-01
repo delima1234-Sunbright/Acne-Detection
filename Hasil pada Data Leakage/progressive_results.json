@@ -1,0 +1,23 @@
+{
+  "yolov8n": {
+    "map50": 0.07694900504410379,
+    "map50_95": 0.02790527460666689,
+    "recall": 0.16343699013764704,
+    "precision": 0.11515723803162128,
+    "best_pt": "/home/rof/Delima/Delima/Eksperimen 5/runs_v5/progressive_yolov8n/weights/best.pt"
+  },
+  "yolov8s": {
+    "map50": 0.11522675231192586,
+    "map50_95": 0.03885323080120392,
+    "recall": 0.21007602346800244,
+    "precision": 0.17775281692307796,
+    "best_pt": "/home/rof/Delima/Delima/Eksperimen 5/runs_v5/progressive_yolov8s/weights/best.pt"
+  },
+  "yolov8m": {
+    "map50": 0.10357557119312312,
+    "map50_95": 0.039061440009095644,
+    "recall": 0.2279083773701551,
+    "precision": 0.14833798636636347,
+    "best_pt": "/home/rof/Delima/Delima/Eksperimen 5/runs_v5/progressive_yolov8m/weights/best.pt"
+  }
+}

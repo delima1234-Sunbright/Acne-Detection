@@ -1,0 +1,14 @@
+names:
+- atrophic_scar
+- comedo
+- hypertrophic_scar
+- melasma
+- nevus
+- nodule
+- other
+- papule
+- pustule
+nc: 9
+test: /home/rof/Delima/Delima/CLEAN DATASET /Balanced_Dataset/test/images
+train: /home/rof/Delima/Delima/CLEAN DATASET /Balanced_Dataset/train/images
+val: /home/rof/Delima/Delima/CLEAN DATASET /Balanced_Dataset/validation/images

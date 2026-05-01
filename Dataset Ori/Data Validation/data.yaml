@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['atrophic_scar', 'closed_comedo', 'hypertrophic_scar', 'melasma', 'nevus', 'nodule', 'open_comedo', 'other', 'papule', 'pustule']
+
+roboflow:
+  workspace: detect-object-6pshz
+  project: lesion-detection-ruc40-d9re2
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/detect-object-6pshz/lesion-detection-ruc40-d9re2/dataset/1

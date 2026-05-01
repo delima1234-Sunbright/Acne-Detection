@@ -1,0 +1,15 @@
+path: /home/rof/Delima/Delima/CLEAN DATASET /Balanced_Dataset
+train: train/images
+val: validation/images
+test: test/images
+nc: 9
+names:
+- atrophic_scar
+- comedo
+- hypertrophic_scar
+- melasma
+- nevus
+- nodule
+- other
+- papule
+- pustule
