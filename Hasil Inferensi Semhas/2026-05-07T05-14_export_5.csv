@@ -1,0 +1,25 @@
+﻿ID,Kelas,Confidence (%),Width (px),Height (px),Area (px),Relative Size (%)
+1,Nodule — Jerawat batu yang nakal.,6.5,306,239,73178,0.613
+2,Atrophic Scar — Bekas jerawat yang mencekung.,48.5,96,64,6185,0.052
+3,Comedo — Si kecil awal mula jerawat.,22.5,31,29,897,0.008
+4,Other — Lesi lain di luar 8 kelas utama.,9.2,34,32,1093,0.009
+5,Comedo — Si kecil awal mula jerawat.,14.7,45,48,2165,0.018
+6,Atrophic Scar — Bekas jerawat yang mencekung.,22.8,45,42,1907,0.016
+7,Melasma — Flek atau bercak gelap.,17.9,52,50,2621,0.022
+8,Melasma — Flek atau bercak gelap.,15.2,47,47,2201,0.018
+9,Melasma — Flek atau bercak gelap.,9.7,43,38,1612,0.014
+10,Comedo — Si kecil awal mula jerawat.,7.7,22,34,749,0.006
+11,Comedo — Si kecil awal mula jerawat.,11.5,33,33,1091,0.009
+12,Papule — Jerawat merah yang mulai meradang.,10.7,98,71,7005,0.059
+13,Atrophic Scar — Bekas jerawat yang mencekung.,7.8,43,45,1936,0.016
+14,Melasma — Flek atau bercak gelap.,5.4,30,66,1951,0.016
+15,Comedo — Si kecil awal mula jerawat.,22.7,38,37,1402,0.012
+16,Melasma — Flek atau bercak gelap.,11.5,33,104,3468,0.029
+17,Nevus — Nama keren untuk tahi lalat.,5.1,42,34,1417,0.012
+18,Comedo — Si kecil awal mula jerawat.,9.8,29,29,853,0.007
+19,Nevus — Nama keren untuk tahi lalat.,12.2,25,32,803,0.007
+20,Atrophic Scar — Bekas jerawat yang mencekung.,32.4,52,32,1673,0.014
+21,Atrophic Scar — Bekas jerawat yang mencekung.,14.1,123,52,6392,0.054
+22,Atrophic Scar — Bekas jerawat yang mencekung.,8.8,20,25,509,0.004
+23,Nodule — Jerawat batu yang nakal.,7.2,406,79,32286,0.27
+24,Papule — Jerawat merah yang mulai meradang.,14.6,70,55,3838,0.032

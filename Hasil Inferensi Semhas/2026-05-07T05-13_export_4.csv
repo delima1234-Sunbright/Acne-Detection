@@ -1,0 +1,141 @@
+﻿ID,Kelas,Confidence (%),Width (px),Height (px),Area (px),Relative Size (%)
+1,Comedo — Si kecil awal mula jerawat.,6.4,40,39,1552,0.013
+2,Papule — Jerawat merah yang mulai meradang.,41.5,68,82,5555,0.047
+3,Comedo — Si kecil awal mula jerawat.,24.9,36,35,1254,0.01
+4,Comedo — Si kecil awal mula jerawat.,14.6,53,48,2510,0.021
+5,Comedo — Si kecil awal mula jerawat.,12.5,44,45,2009,0.017
+6,Atrophic Scar — Bekas jerawat yang mencekung.,8.7,45,43,1957,0.016
+7,Comedo — Si kecil awal mula jerawat.,7,53,48,2534,0.021
+8,Papule — Jerawat merah yang mulai meradang.,5.5,80,14,1139,0.01
+9,Comedo — Si kecil awal mula jerawat.,40.8,42,40,1696,0.014
+10,Comedo — Si kecil awal mula jerawat.,33,32,18,579,0.005
+11,Comedo — Si kecil awal mula jerawat.,27.5,41,40,1600,0.013
+12,Papule — Jerawat merah yang mulai meradang.,15,28,93,2655,0.022
+13,Atrophic Scar — Bekas jerawat yang mencekung.,14.2,66,123,8068,0.068
+14,Nevus — Nama keren untuk tahi lalat.,41.7,29,34,988,0.008
+15,Comedo — Si kecil awal mula jerawat.,33.5,26,29,749,0.006
+16,Comedo — Si kecil awal mula jerawat.,28.9,30,32,942,0.008
+17,Atrophic Scar — Bekas jerawat yang mencekung.,24.6,93,121,11183,0.094
+18,Atrophic Scar — Bekas jerawat yang mencekung.,24.5,40,30,1227,0.01
+19,Atrophic Scar — Bekas jerawat yang mencekung.,22,32,41,1338,0.011
+20,Atrophic Scar — Bekas jerawat yang mencekung.,20.1,35,30,1051,0.009
+21,Atrophic Scar — Bekas jerawat yang mencekung.,16.9,32,77,2498,0.021
+22,Atrophic Scar — Bekas jerawat yang mencekung.,14.7,36,45,1635,0.014
+23,Atrophic Scar — Bekas jerawat yang mencekung.,14.6,45,54,2442,0.02
+24,Atrophic Scar — Bekas jerawat yang mencekung.,14.5,27,27,736,0.006
+25,Comedo — Si kecil awal mula jerawat.,11.6,40,40,1604,0.013
+26,Comedo — Si kecil awal mula jerawat.,11.6,37,40,1487,0.012
+27,Papule — Jerawat merah yang mulai meradang.,11.3,51,53,2711,0.023
+28,Atrophic Scar — Bekas jerawat yang mencekung.,9.7,60,66,4005,0.034
+29,Atrophic Scar — Bekas jerawat yang mencekung.,8.8,51,53,2725,0.023
+30,Comedo — Si kecil awal mula jerawat.,7.9,39,34,1300,0.011
+31,Comedo — Si kecil awal mula jerawat.,6.9,43,45,1895,0.016
+32,Atrophic Scar — Bekas jerawat yang mencekung.,6.6,55,54,2927,0.025
+33,Comedo — Si kecil awal mula jerawat.,5.9,32,26,832,0.007
+34,Atrophic Scar — Bekas jerawat yang mencekung.,54.3,96,74,7141,0.06
+35,Papule — Jerawat merah yang mulai meradang.,47.9,81,88,7111,0.06
+36,Atrophic Scar — Bekas jerawat yang mencekung.,43.9,75,58,4324,0.036
+37,Comedo — Si kecil awal mula jerawat.,35.7,39,36,1397,0.012
+38,Papule — Jerawat merah yang mulai meradang.,34.2,104,96,9992,0.084
+39,Atrophic Scar — Bekas jerawat yang mencekung.,33.9,48,52,2492,0.021
+40,Comedo — Si kecil awal mula jerawat.,29.8,28,27,748,0.006
+41,Papule — Jerawat merah yang mulai meradang.,24.1,108,48,5185,0.043
+42,Comedo — Si kecil awal mula jerawat.,21.8,22,22,483,0.004
+43,Comedo — Si kecil awal mula jerawat.,9,39,22,876,0.007
+44,Comedo — Si kecil awal mula jerawat.,7.7,28,28,779,0.007
+45,Comedo — Si kecil awal mula jerawat.,29.1,46,29,1333,0.011
+46,Papule — Jerawat merah yang mulai meradang.,23.7,49,51,2489,0.021
+47,Comedo — Si kecil awal mula jerawat.,17.9,19,23,438,0.004
+48,Comedo — Si kecil awal mula jerawat.,9.7,44,48,2127,0.018
+49,Atrophic Scar — Bekas jerawat yang mencekung.,7.3,34,50,1676,0.014
+50,Papule — Jerawat merah yang mulai meradang.,5.1,26,64,1666,0.014
+51,Melasma — Flek atau bercak gelap.,37,38,32,1217,0.01
+52,Papule — Jerawat merah yang mulai meradang.,9.9,29,57,1632,0.014
+53,Comedo — Si kecil awal mula jerawat.,7.8,30,34,1017,0.009
+54,Papule — Jerawat merah yang mulai meradang.,12.9,82,74,6075,0.051
+55,Pustule — Jerawat yang sudah 'matang'.,46.3,83,69,5739,0.048
+56,Atrophic Scar — Bekas jerawat yang mencekung.,11.6,74,37,2747,0.023
+57,Comedo — Si kecil awal mula jerawat.,25.7,45,41,1869,0.016
+58,Papule — Jerawat merah yang mulai meradang.,8.1,80,63,5008,0.042
+59,Atrophic Scar — Bekas jerawat yang mencekung.,6.1,85,70,5949,0.05
+60,Melasma — Flek atau bercak gelap.,12.4,69,58,4010,0.034
+61,Atrophic Scar — Bekas jerawat yang mencekung.,38.2,49,43,2142,0.018
+62,Comedo — Si kecil awal mula jerawat.,35.8,33,35,1148,0.01
+63,Atrophic Scar — Bekas jerawat yang mencekung.,14.7,54,91,4868,0.041
+64,Atrophic Scar — Bekas jerawat yang mencekung.,13.6,116,137,15901,0.133
+65,Atrophic Scar — Bekas jerawat yang mencekung.,11,47,43,2028,0.017
+66,Atrophic Scar — Bekas jerawat yang mencekung.,7.6,48,64,3025,0.025
+67,Comedo — Si kecil awal mula jerawat.,7.3,27,29,772,0.006
+68,Atrophic Scar — Bekas jerawat yang mencekung.,6.8,74,90,6689,0.056
+69,Atrophic Scar — Bekas jerawat yang mencekung.,5.3,88,117,10292,0.086
+70,Atrophic Scar — Bekas jerawat yang mencekung.,5.1,138,96,13231,0.111
+71,Atrophic Scar — Bekas jerawat yang mencekung.,48.8,34,46,1576,0.013
+72,Papule — Jerawat merah yang mulai meradang.,36.7,112,108,12047,0.101
+73,Comedo — Si kecil awal mula jerawat.,14.7,33,32,1053,0.009
+74,Atrophic Scar — Bekas jerawat yang mencekung.,8,73,58,4231,0.035
+75,Atrophic Scar — Bekas jerawat yang mencekung.,6.8,49,56,2753,0.023
+76,Atrophic Scar — Bekas jerawat yang mencekung.,6.7,59,62,3633,0.03
+77,Atrophic Scar — Bekas jerawat yang mencekung.,6.5,124,191,23759,0.199
+78,Atrophic Scar — Bekas jerawat yang mencekung.,6.2,50,47,2383,0.02
+79,Atrophic Scar — Bekas jerawat yang mencekung.,6.1,37,25,944,0.008
+80,Atrophic Scar — Bekas jerawat yang mencekung.,51.9,46,46,2133,0.018
+81,Atrophic Scar — Bekas jerawat yang mencekung.,36.6,47,39,1842,0.015
+82,Papule — Jerawat merah yang mulai meradang.,33.3,50,84,4225,0.035
+83,Atrophic Scar — Bekas jerawat yang mencekung.,27.2,30,37,1115,0.009
+84,Comedo — Si kecil awal mula jerawat.,26.9,25,24,595,0.005
+85,Comedo — Si kecil awal mula jerawat.,25.8,23,23,544,0.005
+86,Atrophic Scar — Bekas jerawat yang mencekung.,24.8,60,60,3608,0.03
+87,Atrophic Scar — Bekas jerawat yang mencekung.,15.6,47,32,1531,0.013
+88,Atrophic Scar — Bekas jerawat yang mencekung.,12.2,33,57,1857,0.016
+89,Atrophic Scar — Bekas jerawat yang mencekung.,12.2,75,56,4154,0.035
+90,Atrophic Scar — Bekas jerawat yang mencekung.,11.6,54,55,2937,0.025
+91,Other — Lesi lain di luar 8 kelas utama.,11.3,133,178,23623,0.198
+92,Melasma — Flek atau bercak gelap.,11.1,50,59,2987,0.025
+93,Comedo — Si kecil awal mula jerawat.,10.9,40,34,1358,0.011
+94,Nodule — Jerawat batu yang nakal.,10.7,369,161,59326,0.497
+95,Pustule — Jerawat yang sudah 'matang'.,9.6,34,34,1183,0.01
+96,Atrophic Scar — Bekas jerawat yang mencekung.,7.7,21,23,486,0.004
+97,Atrophic Scar — Bekas jerawat yang mencekung.,6,158,61,9662,0.081
+98,Atrophic Scar — Bekas jerawat yang mencekung.,63.2,100,83,8222,0.069
+99,Papule — Jerawat merah yang mulai meradang.,34.1,46,51,2369,0.02
+100,Atrophic Scar — Bekas jerawat yang mencekung.,26.8,61,125,7603,0.064
+101,Atrophic Scar — Bekas jerawat yang mencekung.,23.8,21,34,715,0.006
+102,Papule — Jerawat merah yang mulai meradang.,15.3,49,48,2345,0.02
+103,Melasma — Flek atau bercak gelap.,13.6,92,82,7562,0.063
+104,Papule — Jerawat merah yang mulai meradang.,12.2,38,76,2884,0.024
+105,Atrophic Scar — Bekas jerawat yang mencekung.,8,65,44,2830,0.024
+106,Atrophic Scar — Bekas jerawat yang mencekung.,6.8,34,39,1317,0.011
+107,Atrophic Scar — Bekas jerawat yang mencekung.,5.3,41,53,2157,0.018
+108,Atrophic Scar — Bekas jerawat yang mencekung.,63.7,40,41,1606,0.013
+109,Papule — Jerawat merah yang mulai meradang.,44.9,43,56,2408,0.02
+110,Melasma — Flek atau bercak gelap.,40.9,72,100,7200,0.06
+111,Nodule — Jerawat batu yang nakal.,38.6,244,268,65473,0.548
+112,Papule — Jerawat merah yang mulai meradang.,37.4,44,50,2203,0.018
+113,Papule — Jerawat merah yang mulai meradang.,35.1,68,76,5189,0.043
+114,Papule — Jerawat merah yang mulai meradang.,21.4,48,61,2949,0.025
+115,Atrophic Scar — Bekas jerawat yang mencekung.,11.5,44,43,1882,0.016
+116,Comedo — Si kecil awal mula jerawat.,11.2,27,30,793,0.007
+117,Atrophic Scar — Bekas jerawat yang mencekung.,9,49,60,2923,0.024
+118,Papule — Jerawat merah yang mulai meradang.,7.7,109,142,15439,0.129
+119,Atrophic Scar — Bekas jerawat yang mencekung.,6.1,42,50,2125,0.018
+120,Hypertrophic Scar — Bekas jerawat yang menonjol.,28.2,131,154,20104,0.168
+121,Pustule — Jerawat yang sudah 'matang'.,18.8,26,25,635,0.005
+122,Hypertrophic Scar — Bekas jerawat yang menonjol.,17.3,175,67,11705,0.098
+123,Atrophic Scar — Bekas jerawat yang mencekung.,9.5,46,43,1964,0.016
+124,Comedo — Si kecil awal mula jerawat.,8,19,18,343,0.003
+125,Nodule — Jerawat batu yang nakal.,7.2,428,246,105395,0.882
+126,Atrophic Scar — Bekas jerawat yang mencekung.,5,44,67,2934,0.025
+127,Papule — Jerawat merah yang mulai meradang.,41.8,50,59,2948,0.025
+128,Melasma — Flek atau bercak gelap.,40.3,26,32,852,0.007
+129,Melasma — Flek atau bercak gelap.,39.3,38,53,2011,0.017
+130,Nevus — Nama keren untuk tahi lalat.,36.5,36,46,1663,0.014
+131,Melasma — Flek atau bercak gelap.,7.3,28,23,667,0.006
+132,Papule — Jerawat merah yang mulai meradang.,11.9,90,77,6899,0.058
+133,Papule — Jerawat merah yang mulai meradang.,10.3,36,37,1332,0.011
+134,Papule — Jerawat merah yang mulai meradang.,8.4,162,160,25977,0.217
+135,Papule — Jerawat merah yang mulai meradang.,5.8,66,60,3976,0.033
+136,Pustule — Jerawat yang sudah 'matang'.,24,29,30,886,0.007
+137,Atrophic Scar — Bekas jerawat yang mencekung.,9.6,115,156,17945,0.15
+138,Comedo — Si kecil awal mula jerawat.,8.4,16,22,357,0.003
+139,Papule — Jerawat merah yang mulai meradang.,6.7,78,70,5430,0.045
+140,Comedo — Si kecil awal mula jerawat.,15,43,41,1751,0.015
